@@ -27,20 +27,4 @@ Nuestro proyecto culmina todo lo aprendido: conocimientos técnicos aplicados a 
 - Fácil despliegue en Render.com y Heroku.  
 - Gestión del frontend con React y Bootstrap para interfaz responsiva.  
 
----
 
-## Instalación y configuración
-
-### Requisitos previos
-
-- Python 3.10+  
-- Node.js v20+  
-- Pipenv  
-- Motor de base de datos (Postgres recomendado)  
-
-### Backend
-
-1. Instala dependencias de Python:
-
-   ```bash
-   pipenv install
